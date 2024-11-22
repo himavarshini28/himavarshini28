@@ -19,15 +19,16 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=himavarshini28&show_icons=true&locale=en&layout=compact" alt="himavarshini28" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=himavarshini28&show_icons=true&locale=en&layout=compact&theme=dark" alt="himavarshini28" />
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=himavarshini28&show_icons=true&locale=en" alt="himavarshini28" />
+    <img src="https://github-readme-stats.vercel.app/api?username=himavarshini28&show_icons=true&locale=en&theme=dark" alt="himavarshini28" />
   </p>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=himavarshini28&" alt="himavarshini28" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=himavarshini28&theme=dark" alt="himavarshini28" />
   </p>
 </div>
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himavarshini28" alt="himavarshini28" /></a> </p>
